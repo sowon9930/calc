@@ -1,0 +1,37 @@
+{
+  "short_name": "PWA계산기",
+  "name": "React PWA 계산기",
+  "icons": [
+    {
+      "src": "./icons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./icons/favicon-196x196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "./icons/favicon-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "./icons/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./icons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16 48x48",
+      "type": "image/icon",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}

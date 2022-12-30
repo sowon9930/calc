@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/calc/static/css/main.9a65a182.css",
+    "main.js": "/calc/static/js/main.a95412db.js",
+    "static/media/bg.png": "/calc/static/media/bg.1f27f18630e6efc4f2a6.png",
+    "static/media/oops.png": "/calc/static/media/oops.b1f05084584f7c481c59.png",
+    "static/media/sorry.png": "/calc/static/media/sorry.1b3ba3b444bf88cb9fb6.png",
+    "static/media/pattern.png": "/calc/static/media/pattern.7414b6a2befdbcd59c01.png",
+    "static/media/paper.jpg": "/calc/static/media/paper.f31d02e9405a57395b1e.jpg",
+    "static/media/loading.gif": "/calc/static/media/loading.be5ce7bb4776edcf541d.gif",
+    "service-worker.js": "/calc/service-worker.js",
+    "static/media/clear.png": "/calc/static/media/clear.948f54c5c2902f8595e3.png",
+    "static/media/0.png": "/calc/static/media/0.3b5576a56d0947ef7b3a.png",
+    "static/media/8.png": "/calc/static/media/8.dcaf582524f40d4ad2e8.png",
+    "static/media/9.png": "/calc/static/media/9.08b7c87f60bd154e5f2a.png",
+    "static/media/5.png": "/calc/static/media/5.37fb48a94e24a393b31b.png",
+    "static/media/2.png": "/calc/static/media/2.497b59df0d1a2cc24d6b.png",
+    "static/media/6.png": "/calc/static/media/6.761f818a8998ff2b9682.png",
+    "static/media/output.png": "/calc/static/media/output.813d6e45b465ca31818d.png",
+    "static/media/3.png": "/calc/static/media/3.94304eea3d8cd0e4b059.png",
+    "static/media/4.png": "/calc/static/media/4.2b8d180b6ddd16a96635.png",
+    "static/media/7.png": "/calc/static/media/7.6a98d9c50c193adaf494.png",
+    "static/media/title.png": "/calc/static/media/title.dec4b75c4892d93bfc04.png",
+    "static/media/blank-r.png": "/calc/static/media/blank-r.6d59bb3f9dba6d3fa3f0.png",
+    "static/media/blank-l.png": "/calc/static/media/blank-l.bad447b92a7dcfd6ba52.png",
+    "static/media/multi.png": "/calc/static/media/multi.d8fb9e0bf5da71d938b0.png",
+    "static/media/plus.png": "/calc/static/media/plus.f61c39608445ca982c50.png",
+    "static/media/1.png": "/calc/static/media/1.b4818458544673a3f85c.png",
+    "static/media/equal.png": "/calc/static/media/equal.7eb8219143f06b999ecc.png",
+    "static/media/divide.png": "/calc/static/media/divide.41a529c93547ce75e878.png",
+    "static/media/del.png": "/calc/static/media/del.b1691b3a37a89b449234.png",
+    "static/media/minus.png": "/calc/static/media/minus.54001ad41e2935fd25b3.png",
+    "index.html": "/calc/index.html",
+    "main.9a65a182.css.map": "/calc/static/css/main.9a65a182.css.map",
+    "main.a95412db.js.map": "/calc/static/js/main.a95412db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a65a182.css",
+    "static/js/main.a95412db.js"
+  ]
+}
